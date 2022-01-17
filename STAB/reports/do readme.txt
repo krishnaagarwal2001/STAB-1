@@ -1,0 +1,1 @@
+Preserve this report to another location before using STAB again. Previous reports will be removed from the directory automatically.
